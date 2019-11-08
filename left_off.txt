@@ -1,0 +1,3 @@
+Left Off @: 09/05:
+
+9. Implementing Our 'Hold' Function and the DRY Principle
